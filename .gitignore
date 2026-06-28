@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+*.db
+provenance_audit.sqlite3
+.pytest_cache/
+.DS_Store
+.claude/
